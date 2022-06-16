@@ -1,24 +1,24 @@
 System files from the ROM:: disk:
 
-ROM::SYS$WSRV.IMG  
-ROM::SYS$NTFY.IMG  
-ROM::OLIB.DYL  
+ROM::SYS$WSRV.IMG - window server  
+ROM::SYS$NTFY.IMG - notification server  
+ROM::OLIB.DYL   
 ROM::WIMP.DYL  
 ROM::OPL.DYL  
 ROM::S_.RSC  
-ROM::SYS$SHLL.IMG  
-ROM::OPL.ICN  
-ROM::SYS$CON.IMG  
-ROM::SYS$OPLT.IMG  
-ROM::SYS$OPLR.IMG  
-ROM::OPLTERR.RSC  
-ROM::SYS$RFSV.IMG  
+ROM::SYS$SHLL.IMG - Sys shell  
+ROM::OPL.ICN OPL - Icon  
+ROM::SYS$CON.IMG - Console ?  
+ROM::SYS$OPLT.IMG - OPL transaltor  
+ROM::SYS$OPLR.IMG - run OPL  
+ROM::OPLTERR.RSC - OPL Translation errors  
+ROM::SYS$RFSV.IMG - (Remote?) file server  
 ROM::R_.HFT  
-ROM::BJ.WDR  
-ROM::BIG.FON  
-ROM::SMALL.FON  
-ROM::MONO.FON  
-ROM::SYS$ENV.INI  
+ROM::BJ.WDR - Canon BJ printer driver  
+ROM::BIG.FON - Big font!  
+ROM::SMALL.FON - Small font!  
+ROM::MONO.FON - mono font!  
+ROM::SYS$ENV.INI - Environment variables  `
   
 .IMG are executable image files  
 .DYL libraries  
