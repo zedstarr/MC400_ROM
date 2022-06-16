@@ -5,6 +5,8 @@ Backing up and storing ROM files from the technical marvel that is the Psion MC4
 
 Commerically unsuccessful so very few hardware examples are around, ROM image stored here in the name of retro-computing historical preservation. 
 
+![MC400 System Screen showing RAM/ROM/System info](https://zedstarr.files.wordpress.com/2021/09/screen2021-09-21-105648.png)
+
 v2.60F was the "MC WORD" version, the last official OS release from Psion for the MC400 released in 1992,
 
 Inspiration for this endeavour came after seeing: https://github.com/Treeki/WindEmu
