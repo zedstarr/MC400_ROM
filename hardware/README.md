@@ -1,4 +1,4 @@
-If you hold the memory board in portrait oreintation looking at the chip side so the 2 Intel 28F010 chips are at the top they're referred to by their location on the Left-hand (LH) and right-hand (RH) side.
+Holding the memory board (based on PCB 7100-0012 REV 1.1) in portrait oreintation looking at the chip side so the 2 Intel 28F010 chips are at the top they're referred to by their location on the Left-hand (LH) and right-hand (RH) side.
 
 Binary images for each chip are included.
 131,072 bytes (128k) each
