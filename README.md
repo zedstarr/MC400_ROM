@@ -23,6 +23,9 @@ The two 8-bit flash chips that I had imaged must share the address bus and provi
 
 # Resources
 
+MC400 info
+https://sites.google.com/view/psionmc400
+
 Psion documentation project
 https://doc.psion.info/
 
