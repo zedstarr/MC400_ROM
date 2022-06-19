@@ -1,6 +1,6 @@
 Keyboard matrix decoded with the help of Frank Adams' Teensyduino sketch from https://github.com/thedalles77/USB_Laptop_Keyboard_Controller
 
-CSV table:
+CSV table:  
 ``FPC pin,2,3,4,5,6,7,8,9,10,X,Y``  
 ``1,KEY_ESC,0,0,0,0,0,0,0,0,,``  
 ``11,0,0,KEY_1,KEY_3,KEY_5,KEY_7,KEY_9,KEY_MINUS,KEY_BACKSPACE,Task,Del``  
