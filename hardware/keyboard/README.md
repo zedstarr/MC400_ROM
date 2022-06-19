@@ -16,4 +16,6 @@ The "ESC" key (which is also the "On" key) is unique in that it has 2 dedicated 
 
 Of the 18 pins on the main keyboard it's a 9x9 matrix, but pins 1 & 2 are dedicated to "On/ESC" so it's 8x8 for the other 60 keys.
 
+The supplementary case mounted buttons (Task/Del/Home/End/PgUp/PgDn/LCD/Rec) are not covered by this sketch
+
 Teensy LC sketch included here
