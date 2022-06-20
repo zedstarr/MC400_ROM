@@ -1,5 +1,8 @@
 Keyboard matrix decoded with the help of Frank Adams' Teensyduino sketch from https://github.com/thedalles77/USB_Laptop_Keyboard_Controller
 
+
+![MC400 keyboard matrix](https://zedstarr.files.wordpress.com/2022/06/screenshot-from-2022-06-19-21-50-17.png)
+
 CSV table:  
 ``FPC pin,2,3,4,5,6,7,8,9,10,X,Y``  
 ``1,KEY_ESC,0,0,0,0,0,0,0,0,,``  
