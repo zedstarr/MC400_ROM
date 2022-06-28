@@ -1,4 +1,4 @@
-MC400_V2.60F_ROM.bin
+MC400 V2.60F ROM
 
 **MD5** ``b9b027253b4e8a562d9c1b7b8abdb296  ``  
 **SHA1** ``3b79e0b751080517d7dab0838dce4ba7cf6920da  ``  
