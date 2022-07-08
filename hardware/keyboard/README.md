@@ -22,3 +22,6 @@ Of the 18 pins on the main keyboard it's a 9x9 matrix, but pins 1 & 2 are dedica
 The supplementary case mounted buttons (Task/Del/Home/End/PgUp/PgDn/LCD/Rec) are not covered by this sketch
 
 Teensy LC sketch included here
+
+Further details here: https://zedstarr.com/2022/06/20/repurposing-an-old-psion-mc400-laptop-keyboard-with-teensyduino-usb/
+
