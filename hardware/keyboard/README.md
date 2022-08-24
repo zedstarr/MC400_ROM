@@ -1,5 +1,10 @@
 Keyboard matrix decoded with the help of Frank Adams' Teensyduino sketch from https://github.com/thedalles77/USB_Laptop_Keyboard_Controller
 
+In Action:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tcAmia2SWaY/0.jpg)](https://www.youtube.com/watch?v=tcAmia2SWaY)
+
+https://youtube.com/shorts/tcAmia2SWaY?feature=share
 
 ![MC400 keyboard matrix](https://github.com/zedstarr/MC400_ROM/raw/main/hardware/keyboard/Screenshot%20from%202022-08-23%2015-29-46.png)
 
