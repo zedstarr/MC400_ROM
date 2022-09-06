@@ -7,9 +7,9 @@ Commerically unsuccessful so very few hardware examples are around, ROM image st
 
 ![MC400 System Screen showing RAM/ROM/System info](https://zedstarr.files.wordpress.com/2021/09/screen2021-09-21-105648.png)
 
-v2.60F was the "MC WORD" version, the last official OS release from Psion for the MC400 released in 1992,
+v2.60F was the "MC WORD" version, the last official OS release from Psion for the MC400 from 1992, over 30 years old at the time of writing.
 
-Inspiration for this endeavour came after seeing: https://github.com/Treeki/WindEmu
+Inspiration for this endeavour came after seeing: https://github.com/Treeki/WindEmu - I would love to see the Psion MC400's GUI immortalised in some form of emulator too.
 
 In Sep 2021 I removed the 2 x 28F010 Flash ROM chips from the Memory board of a dead MC400, and dumped the contents of each chip individually using the TL866 - but fouind no relevant/recognisable strings in either image...?
 
