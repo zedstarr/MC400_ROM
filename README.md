@@ -21,6 +21,8 @@ The two 8-bit flash chips that I had imaged must share the address bus and provi
 0003fff0  ea 00 00 00 c0 00 30 36  30 38 39 32 0f 26 de 60  |......060892.&.`|``  
 ``00040000``  
 
+![MC400 System Screen running ROMDUMP.IMG](https://zedstarr.files.wordpress.com/2023/01/scr_romd.png)
+
 # Resources
 
 MC400 info
