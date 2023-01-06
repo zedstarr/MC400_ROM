@@ -14,3 +14,5 @@ MD5 217e27789c51a8d640fde11bd7491dcc
 SHA1 751d9efd44c4bedaad77ef2ef8a16605eb88787c  
 SHA256 24c727e49bc095b4f8162d618b27cbd3cc373e88ec9d076d380eacba1321e49a  
 CRC32 abe679da  
+
+![MC400 memory daughter board](https://github.com/zedstarr/MC400_ROM/raw/main/hardware/memory/20210922_103139.jpg)
