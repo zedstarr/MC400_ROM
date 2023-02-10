@@ -1,9 +1,9 @@
 # MC400 ROM
 Psion MC400 ROM preservation & archival repository
 
-Backing up and storing ROM files from the technical marvel that is the Psion MC400 laptop from 1989 - full multi-tasking GUI in 256k of ROM running in 256k of RAM on a 7.68MHz 80C86 running for 40+ hours on 8 x AA cells with clickable touchpad and with SSDs too!
+Backing up and storing ROM files from the technical marvel that is the Psion MC200/MC400 laptop from 1989 - full multi-tasking GUI in 256k of ROM running in 256k of RAM on a 7.68MHz 80C86 running for 40+ hours on 8 x AA cells with clickable touchpad, instant on and with full solid-state storage on Psion's proprietary SSDs too!
 
-Commerically unsuccessful so very few hardware examples are around, ROM image stored here in the name of retro-computing historical preservation. 
+Commerically unsuccessful so very few hardware examples are around, many LCD screens are mechanically failing with age so ROM images are stored here in the name of retro-computing historical preservation. This early version of Psion's Epoc/Os (EPOC16) is an important part of the technical history of the progression in development of what would become EPOC32 then Symbian OS that went on to power the first wave of modern smartphones.
 
 ![MC400 System Screen showing RAM/ROM/System info](https://zedstarr.files.wordpress.com/2021/09/screen2021-09-21-105648.png)
 
