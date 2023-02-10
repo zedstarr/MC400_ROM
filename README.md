@@ -1,5 +1,5 @@
 # MC400 ROM
-Psion MC400 ROM archival repository
+Psion MC400 ROM preservation & archival repository
 
 Backing up and storing ROM files from the technical marvel that is the Psion MC400 laptop from 1989 - full multi-tasking GUI in 256k of ROM running in 256k of RAM on a 7.68MHz 80C86 running for 40+ hours on 8 x AA cells with clickable touchpad and with SSDs too!
 
@@ -33,3 +33,5 @@ https://doc.psion.info/
 
 The Last Psion
 https://hackaday.io/project/161291-the-last-psion
+
+**NOTE**: The original copyright in this work has passed from Psion (via Motorola Solutions) to Zebra Technologies Corp https://www.zebra.com/gb/en/about-zebra.html - the activities detailed here are driven by an appreciation of what was ground-breaking technology and a desire to preserve and archive details of the physical machines that were built at the time via emulation.
