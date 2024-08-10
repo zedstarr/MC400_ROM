@@ -1,1 +1,1 @@
-Archive collection of some of the known softwware released for the Psion MC range (SIBO variants only - MC200 & MC400) - both official Psion (MC Word, Sheet), unofficial (MC Missile game), and random other stuff ;-) 
+Archive collection of some of the known software released for the Psion MC range (SIBO variants only - MC200 & MC400) - both official Psion (MC Word, Sheet), unofficial (MC Missile game), and random other stuff ;-) 
