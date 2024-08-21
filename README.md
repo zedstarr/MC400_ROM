@@ -7,7 +7,7 @@ Commerically unsuccessful so very few hardware examples are around, many LCD scr
 
 ![MC400 System Screen showing RAM/ROM/System info](https://zedstarr.files.wordpress.com/2021/09/screen2021-09-21-105648.png)
 
-v2.60F was the "MC WORD" version, the last official EPOC OS release from Psion for the SIBO MC400 from 1992, over 30 years old at the time of writing.
+V2.60F was the "MC WORD" version, the last official EPOC OS release from Psion for the SIBO MC400 from 1992, over 30 years old at the time of writing.
 
 Inspiration for this endeavour came after seeing: https://github.com/Treeki/WindEmu - I would love to see the Psion MC400's GUI immortalised in some form of emulator too.
 
