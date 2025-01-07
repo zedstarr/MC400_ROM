@@ -9,7 +9,7 @@ Commerically unsuccessful so very few hardware examples are around, many LCD scr
 
 V2.60F was the "MC WORD" version, the last official EPOC OS release from Psion for the SIBO MC400 from 1992, over 30 years old at the time of writing.
 
-Inspiration for this endeavour came after seeing: https://github.com/Treeki/WindEmu - I would love to see the Psion MC400's GUI immortalised in some form of emulator too.
+Inspiration for this endeavour came after seeing: https://github.com/Treeki/WindEmu - I would love to see the Psion MC400's GUI immortalised in some form of emulator too. (UPDATE: 31/12/2024 - MAME 0.273 now includes MC200/400/Word emulation ;-) https://www.mamedev.org/release.html ) 
 
 In Sep 2021 I removed the 2 x 28F010 Flash ROM chips from the Memory board of a dead MC400, and dumped the contents of each chip individually using the TL866 - but fouind no relevant/recognisable strings in either image...?
 
